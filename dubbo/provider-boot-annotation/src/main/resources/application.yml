@@ -1,0 +1,11 @@
+dubbo:
+  application:
+    name: provider-boot-annotation
+  registry:
+    protocol: zookeeper
+    address: 192.169.4.129:2181
+  protocol:
+    port: 28803
+
+server:
+  port: 8082

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3cabfdf8-99fa-47f2-be69-5d9deda4668b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/apache-maven-3.6.1/repository" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1ZvSMjCSCZb3tPpB7i4DKjhcx6R" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/consumer_springboot_xml/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.25" />
+    <property name="project.structure.side.proportion" value="0.42633638" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="spring" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ltz.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/consumer_springboot_xml/src/main/resources" />
+      <recent name="$PROJECT_DIR$/provider_springboot_xml/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProviderBootAnnotationApplication">
+    <configuration name="Consumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ltz.consumer.Consumer" />
+      <module name="dubbo-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ltz.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ltz.service.impl.Provider" />
+      <module name="dubbo-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ltz.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastdfsDemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fastdfs-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ltz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ltz" />
+      <option name="MAIN_CLASS_NAME" value="com.ltz.FastdfsDemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerBootAnnotationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer-boot-annotation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltz.ConsumerBootAnnotationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerSpringbootXmlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="consumer_springboot_xml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltz.ConsumerSpringbootXmlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastdfsDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fastdfs-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltz.FastdfsDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderBootAnnotationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider-boot-annotation" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltz.ProviderBootAnnotationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderSpringbootXmlApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="provider_springboot_xml" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ltz.ProviderSpringbootXmlApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FastdfsDemoApplicationTests.contextLoads" />
+        <item itemvalue="Application.Consumer" />
+        <item itemvalue="Application.Provider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.27666956" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringGeneralSettings">
+    <option name="showMultipleContextsPanel" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cabfdf8-99fa-47f2-be69-5d9deda4668b" name="Default Changelist" comment="" />
+      <created>1585718028016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585718028016</updated>
+      <workItem from="1585718029592" duration="13441000" />
+      <workItem from="1585780725913" duration="1589000" />
+      <workItem from="1585782614353" duration="468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="77" key="#Project_Structure" timestamp="1585726229442">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="258" y="77" key="#Project_Structure/0.23.1280.777@0.23.1280.777" timestamp="1585726229442" />
+    <state x="471" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1585718661066">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="471" y="134" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777@0.23.1280.777" timestamp="1585718661066" />
+    <state x="272" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585730574022">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="272" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1280.777@0.23.1280.777" timestamp="1585730574022" />
+    <state x="331" y="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585721078452">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="331" y="271" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1280.777@0.23.1280.777" timestamp="1585721078452" />
+    <state width="1182" height="256" key="GridCell.Tab.0.bottom" timestamp="1585782590908">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1182" height="256" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1585782590908" />
+    <state width="1182" height="256" key="GridCell.Tab.0.center" timestamp="1585782590907">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1182" height="256" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1585782590907" />
+    <state width="1182" height="256" key="GridCell.Tab.0.left" timestamp="1585782590906">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1182" height="256" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1585782590906" />
+    <state width="1182" height="256" key="GridCell.Tab.0.right" timestamp="1585782590907">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1182" height="256" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1585782590907" />
+    <state width="833" height="276" key="GridCell.Tab.1.bottom" timestamp="1585732768232">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="833" height="276" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1585732768232" />
+    <state width="833" height="276" key="GridCell.Tab.1.center" timestamp="1585732768232">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="833" height="276" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1585732768232" />
+    <state width="833" height="276" key="GridCell.Tab.1.left" timestamp="1585732768232">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="833" height="276" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1585732768232" />
+    <state width="833" height="276" key="GridCell.Tab.1.right" timestamp="1585732768232">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="833" height="276" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1585732768232" />
+    <state x="159" y="23" key="SettingsEditor" timestamp="1585782367123">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="159" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1585782367123" />
+    <state x="335" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1585782614279">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="335" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1585782614279" />
+    <state x="34" y="122" key="new project wizard" timestamp="1585730656144">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="34" y="122" key="new project wizard/0.23.1280.777@0.23.1280.777" timestamp="1585730656144" />
+    <state x="201" y="102" key="spring file set editor" timestamp="1585782364567">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="201" y="102" key="spring file set editor/0.23.1280.777@0.23.1280.777" timestamp="1585782364567" />
+  </component>
+</project>
