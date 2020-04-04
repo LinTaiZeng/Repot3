@@ -1,8 +1,0 @@
-dubbo:
-  application:
-    name: consumer-boot-annotation
-  registry:
-    protocol: zookeeper
-    address: 192.169.4.129:21811
-server:
-  port: 8083
