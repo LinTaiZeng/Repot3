@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ltz</groupId>
-    <artifactId>fastdfs-demo</artifactId>
+    <artifactId>fastdfs</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>fastdfs-demo</name>
+    <name>fastdfs</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

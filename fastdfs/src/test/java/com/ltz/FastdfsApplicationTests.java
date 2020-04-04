@@ -14,21 +14,22 @@ import java.io.FileNotFoundException;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-class FastdfsDemoApplicationTests {
+class FastdfsApplicationTests {
 
     @Autowired
-    private FastFileStorageClient fileStorageClient;
+    private FastFileStorageClient client;
 
     @Test
-    void contextLoads() throws FileNotFoundException {
+    void contextLoads() throws Exception {
         File file = new File("/Users/lintaizeng/Downloads/1.jpg");
-        String name = file.getName();
-        String s = name.substring(name.lastIndexOf(".") + 1);
-        FileInputStream stream = new FileInputStream(file);
-        StorePath storePath = fileStorageClient.uploadFile(stream, file.length(), s, null);
-        System.out.println(storePath.getGroup());
-        System.out.println(storePath.getPath());
+        String filename = file.getName();
+        String s = filename.substring(filename.lastIndexOf(".")+1);
+        FileInputStream inputStream = new FileInputStream(file);
+        StorePath storePath = client.uploadFile(inputStream, file.length(), s, null);
+
         System.out.println(storePath.getFullPath());
+        System.out.println(storePath.getPath());
+        System.out.println(storePath.getGroup());
     }
 
 }

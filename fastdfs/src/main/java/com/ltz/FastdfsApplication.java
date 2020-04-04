@@ -7,10 +7,10 @@ import org.springframework.context.annotation.Import;
 
 @SpringBootApplication
 @Import(FdfsClientConfig.class)
-public class FastdfsDemoApplication {
+public class FastdfsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FastdfsDemoApplication.class, args);
+        SpringApplication.run(FastdfsApplication.class, args);
     }
 
 }
